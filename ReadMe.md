@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 "Hello, I'm Isha Savani,
-🎓currently pursuing my MCA at https://www.ipsacademy.org/, Indore. 
-💡I have a strong foundation in problem-solving and a passion for exploring new technologies.
-💻As an Android developer, I love creating innovative solutions and continuously enhancing my skill set."
+currently pursuing my MCA at https://www.ipsacademy.org/, Indore. 
+I have a strong foundation in problem-solving and a passion for exploring new technologies.
+As an Android developer, I love creating innovative solutions and continuously enhancing my skill set."
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isha-savani-582a03248/) 

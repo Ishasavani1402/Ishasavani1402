@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 Hello, I'm Isha Savani
-🎓 Currently pursuing MCA at IPS Academy, Indore
-💡 I'm passionate about problem-solving, and actively intereste in open-source contributions.
-🎯 As a tech enthusiast, I'm always eager to learn new technologies, gain practical experience, and explore innovative solutions.
+Currently pursuing MCA at IPS Academy, Indore
+I'm passionate about problem-solving, and actively intereste in open-source contributions.
+As a tech enthusiast, I'm always eager to learn new technologies, gain practical experience, and explore innovative solutions.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isha-savani-582a03248/) 

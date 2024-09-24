@@ -1,6 +1,6 @@
 # 💫About Me :
 "Hello, I'm Isha Savani,
- currently pursuing my MCA at IPS Academy, Indore. 
+ currently pursuing my MCA at https://www.ipsacademy.org/, Indore. 
 I have a strong foundation in problem-solving
  and a passion for exploring new technologies
 . As an Android developer, I love creating innovative solutions and continuously enhancing my skill set."

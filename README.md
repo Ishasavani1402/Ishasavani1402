@@ -1,8 +1,8 @@
 💫 About Me:
 ---
 
-🔭 I’m currently working on Data Analytics
-🌱 I’m currently learning PowerBi , Visulization ,
+🔭 I’m currently working on Data Analytics <br>
+🌱 I’m currently learning PowerBi , Visulization ,<br>
 EDA(Explor Data Analytics)
 
 ---
@@ -27,8 +27,9 @@ Python Java C FastAPI MySQL Canva Figma Matplotlib NumPy Pandas Power Bi Postman
 
 🏆 GitHub Trophies
 
-
+---
 🔝 Top Contributed Repo
+
 <img width="495" height="273" alt="image" src="https://github.com/user-attachments/assets/5fb86f86-35ad-4c03-aab6-f5f5cb0123c1" />
 
 

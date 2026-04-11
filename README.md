@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics<br>🌱 I’m currently learning PowerBi , Visulization ,<br> EDA(Explor Data Analytics)
+🔭 I’m currently working on Data Analytics<br>🌱 I’m currently learning PowerBi , Visulization ,<br> EDA(Exploratory Data Analytics)
 
 
 ## 🌐 Socials:
